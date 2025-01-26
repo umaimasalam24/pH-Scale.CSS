@@ -1,0 +1,61 @@
+body{
+  background-color:silver;
+  color:white;
+  padding:20px;
+}
+.heading{
+  background-color:grey;
+  color:black;
+  text-align:center;
+  padding:inherit;
+}
+p{
+  padding:5px;
+  margin:0;
+}
+.fourteen{
+  background-color:03055B;
+}
+ 
+ .thirteen{
+   background-color:0047AB;
+ }
+ .twelve{
+   background-color:0065BD;
+ }
+ .eleven{
+   background-color:4682B4;
+ }
+ .ten{
+   background-color:6495ED;
+ }
+ .nine{
+  background-color:A1C9F2;
+}
+.eight{
+  background-color:87CEEB;
+}
+.seven{
+  background-color:green;
+}
+.six{
+  background-color:FFD7D7;
+}
+.five{
+  background-color:FFC5C5;
+}
+.four{
+  background-color:FFC0CB;
+}
+.three{
+  background-color:FFB7C1;
+}
+.two{
+  background-color:FFAEB9;
+}
+.one{
+  background-color:FFA2D6;
+ }
+.zero{
+  background-color:FF99CC;
+}
